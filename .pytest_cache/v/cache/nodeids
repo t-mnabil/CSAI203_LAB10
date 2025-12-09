@@ -1,0 +1,13 @@
+[
+  "tests/test_controllers.py::test_user_list_route",
+  "tests/test_error_handling.py::test_create_user_invalid_input",
+  "tests/test_error_handling.py::test_repository_exception_handled",
+  "tests/test_error_handling.py::test_unexpected_behavior",
+  "tests/test_error_handling.py::test_user_not_found_returns_404",
+  "tests/test_factory.py::test_factory_invalid_type",
+  "tests/test_factory.py::test_factory_returns_user_repo",
+  "tests/test_integration_users.py::test_integration_user_list_route",
+  "tests/test_models.py::test_user_creation",
+  "tests/test_repositories.py::test_get_all_users_csv",
+  "tests/test_singleton.py::test_singleton_file_manager"
+]
